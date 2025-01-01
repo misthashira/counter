@@ -45,6 +45,11 @@ body{
 
 @media (max-width:900px) {
     .container{
+            #values{
+            display: flex;
+            justify-self: center;
+            
+        }
         width: 80%;
         .btn-container{
             display: grid;
